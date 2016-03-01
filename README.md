@@ -16,3 +16,4 @@ Along with simply the nodes being added with the correct longitiude and latitude
 Summary,
 
 This program converts XML, XLSX and XLS documents to the OSM format which is readable by JOSM.
+Authors: Afshin Sabahi, Dylan Angus, Siddharth Chandrashekar.
